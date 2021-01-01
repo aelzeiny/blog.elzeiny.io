@@ -1,0 +1,7 @@
+baseURL = 'https://blog.elzeiny.io/'
+languageCode = 'en-us'
+title = "Elzeiny's Pointless Blog"
+theme = 'PaperMod'
+
+[params.footer]
+  hideCopyright = true

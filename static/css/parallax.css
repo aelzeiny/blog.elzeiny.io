@@ -1,0 +1,77 @@
+.parallax-hero {
+  height: calc(100vw * 768 / 1366);
+  position: relative;
+}
+
+.p-layer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: calc(100vw * 768 / 1366);
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  z-index: 2;
+  will-change: transform;
+  transform: translateZ(0);
+}
+
+#p-layer-8 { background-image: url('/parallax/day/Layer8.svg'); }
+#p-layer-7 { background-image: url('/parallax/day/Layer7.svg'); }
+#p-layer-6 { background-image: url('/parallax/day/Layer6.svg'); }
+#p-layer-5 { background-image: url('/parallax/day/Layer5.svg'); }
+#p-layer-4 { background-image: url('/parallax/day/Layer4.svg'); }
+#p-layer-3 { background-image: url('/parallax/day/Layer3.svg'); }
+#p-layer-2 { background-image: url('/parallax/day/Layer2.svg'); }
+#p-layer-1 { background-image: url('/parallax/day/Layer1.svg'); }
+#p-layer-0 {
+  background-image: url('/parallax/day/Layer0.svg');
+  position: absolute;
+}
+
+:root[data-theme="dark"] #p-layer-8 { background-image: url('/parallax/night/Layer8.svg'); }
+:root[data-theme="dark"] #p-layer-7 { background-image: url('/parallax/night/Layer7.svg'); }
+:root[data-theme="dark"] #p-layer-6 { background-image: url('/parallax/night/Layer6.svg'); }
+:root[data-theme="dark"] #p-layer-5 { background-image: url('/parallax/night/Layer5.svg'); }
+:root[data-theme="dark"] #p-layer-4 { background-image: url('/parallax/night/Layer4.svg'); }
+:root[data-theme="dark"] #p-layer-3 { background-image: url('/parallax/night/Layer3.svg'); }
+:root[data-theme="dark"] #p-layer-2 { background-image: url('/parallax/night/Layer2.svg'); }
+:root[data-theme="dark"] #p-layer-1 { background-image: url('/parallax/night/Layer1.svg'); }
+:root[data-theme="dark"] #p-layer-0 { background-image: url('/parallax/night/Layer0.svg'); }
+
+.p-title {
+  text-align: center;
+  padding-top: 3%;
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  pointer-events: none;
+  user-select: none;
+}
+
+.p-title h1 {
+  margin: 0;
+  border: none;
+}
+
+.p-title h2 {
+  margin: 0.25rem 0 0;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .p-title h1,
+  .p-title h2 {
+    font-size: 1rem;
+  }
+}
+
+:root[data-theme="dark"] {
+  --theme: #1b0a35;
+}
+
+.content-cover {
+  position: relative;
+  z-index: 10;
+  background: var(--theme);
+}

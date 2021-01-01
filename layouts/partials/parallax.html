@@ -1,0 +1,20 @@
+<div class="parallax-hero">
+  <div class="p-layer" id="p-layer-8" data-speed="3"></div>
+  <div class="p-layer p-title" data-speed="3">
+    {{- if .IsHome }}
+      <h1>{{ site.Title }}</h1>
+      {{- with site.Params.description }}<h2>{{ . }}</h2>{{ end }}
+    {{- else }}
+      <h1>{{ .Title }}</h1>
+      {{- with .Params.description }}<h2>{{ . }}</h2>{{ end }}
+    {{- end }}
+  </div>
+  <div class="p-layer" id="p-layer-7" data-speed="29"></div>
+  <div class="p-layer" id="p-layer-6" data-speed="30"></div>
+  <div class="p-layer" id="p-layer-5" data-speed="40"></div>
+  <div class="p-layer" id="p-layer-4" data-speed="45"></div>
+  <div class="p-layer" id="p-layer-3" data-speed="50"></div>
+  <div class="p-layer" id="p-layer-2" data-speed="55"></div>
+  <div class="p-layer" id="p-layer-1" data-speed="70"></div>
+  <div class="p-layer" id="p-layer-0"></div>
+</div>
