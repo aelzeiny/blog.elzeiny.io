@@ -35,7 +35,7 @@ I talked to the engineers and, to my surprise, they also wanted this. In a fast 
 
 This is the type of low-risk side-project that I like to do for my brother's startup. The expectations from everyone that I'd deliver anything was super-low (including myself). I timeboxed it into a week.
 
-I asked around for the major sources of information only to found that there were *many* places where work happened. The plan was simple \- build a daily batch pipeline that indexed a giant DB (RAG) of these "work-artifacts", and hand it over to an LLM who can query it agenticly.
+I asked around for the major sources of information only to find that there were *many* places where work happened. The plan was simple \- build a daily batch pipeline that indexed a giant DB (RAG) of these "work-artifacts", and hand it over to an LLM who can query it agenticly.
 
 ### The architecture
 
@@ -79,7 +79,7 @@ This sent me. Oh my sides. I gotta hand it to them. Good job, you gamed the syst
 
 While this threat vector is new, this pattern is not. Some jokingly refer to this as "resume-driven development". Folks have always gamed visibility. For example \- the act of chasing after high-visibility, low-impact projects is called ["preening"](https://staffeng.com/guides/work-on-what-matters/).
 
-Let's call it "artifact preening". Being visible to an LLM is the act of creating tangible artifacts of all of your work. Instead of quietly fixing a bug, I can make a doc, attend office hours, then design review, and then make the change. Who bears the price of this behavior? Mostly my colleagues who review my LLM-generated garbage. We already see that pattern PRs. To the LLM, more content is more work, right?
+Let's call it "artifact preening". Being visible to an LLM is the act of creating tangible artifacts of all of your work. Instead of quietly fixing a bug, I can make a doc, attend office hours, then design review, and then make the change. Who bears the price of this behavior? Mostly my colleagues who review my LLM-generated garbage. We already see that pattern in PRs. To the LLM, more content is more work, right?
 
 ## Part 3 \- Managers are using AI to assess performance. Let's talk about it.
 
