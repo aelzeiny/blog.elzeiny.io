@@ -2,7 +2,7 @@ hugo := `which hugo || echo ~/go/bin/hugo`
 
 # Start dev server with drafts
 dev:
-    {{hugo}} server --buildDrafts
+    {{hugo}} server --buildDrafts --buildFuture
 
 # Build the site
 build:
