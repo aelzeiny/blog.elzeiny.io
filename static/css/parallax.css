@@ -67,6 +67,10 @@
   }
 }
 
+:root:not([data-theme="dark"]) .header {
+  background-color: #d6ae1c;
+}
+
 :root[data-theme="dark"] {
   --theme: #1b0a35;
 }

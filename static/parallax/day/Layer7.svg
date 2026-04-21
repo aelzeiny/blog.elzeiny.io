@@ -1,1 +1,288 @@
-../night/Layer7.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg:svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xml:space="preserve" width="297.328mm" height="166.984mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 18356.48 10309.3" id="svg612" ns1:docname="illustration rev4_064511.svg" inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"><svg:defs id="defs43">
+  <svg:style type="text/css" id="style1">
+   
+    .fil42 {fill:#223645}
+    .fil44 {fill:#223645}
+    .fil84 {fill:#232324}
+    .fil43 {fill:#274052}
+    .fil18 {fill:#274052}
+    .fil83 {fill:#2E2E30}
+    .fil38 {fill:#36352E}
+    .fil81 {fill:#3B3C45}
+    .fil82 {fill:#3B3C45}
+    .fil59 {fill:#3B5C73}
+    .fil15 {fill:#3B5C73}
+    .fil45 {fill:#40261A}
+    .fil46 {fill:#40261A}
+    .fil49 {fill:#476D87}
+    .fil16 {fill:#4B8699}
+    .fil47 {fill:#4F0101}
+    .fil33 {fill:#4F4E42}
+    .fil41 {fill:#544D35}
+    .fil37 {fill:#544D35}
+    .fil17 {fill:#569CB3}
+    .fil32 {fill:#5E3A2A}
+    .fil40 {fill:#630000}
+    .fil35 {fill:#635B3F}
+    .fil14 {fill:#664337}
+    .fil94 {fill:#664C39}
+    .fil100 {fill:#666D2A}
+    .fil99 {fill:#6B6D2A}
+    .fil103 {fill:#6B712C}
+    .fil96 {fill:#7A7C33}
+    .fil105 {fill:#876353}
+    .fil20 {fill:#8C6447}
+    .fil101 {fill:#8F8C34}
+    .fil36 {fill:#998353}
+    .fil39 {fill:#A5AB7E}
+    .fil13 {fill:#AB7A69}
+    .fil93 {fill:#ADA756}
+    .fil30 {fill:#B5A788}
+    .fil19 {fill:#B88967}
+    .fil61 {fill:#B89979}
+    .fil12 {fill:#BAA772}
+    .fil106 {fill:#C2BB5D}
+    .fil104 {fill:#C2BB5D}
+    .fil48 {fill:#CC5E5E}
+    .fil190 {fill:#D4D4D4}
+    .fil200 {fill:#D6AE1C}
+    .fil102 {fill:#D6AE1C}
+    .fil198 {fill:#D6D451}
+    .fil34 {fill:#E0C77B}
+    .fil1 {fill:#E3E5E8}
+    .fil2 {fill:#E3E5E8}
+    .fil4 {fill:#F7F7F7}
+    .fil31 {fill:#FFD68A}
+    .fil6 {fill:#FFE587}
+    .fil3 {fill:white}
+    .fil136 {fill:black;fill-rule:nonzero}
+    .fil143 {fill:#060A19;fill-rule:nonzero}
+    .fil142 {fill:#070B1E;fill-rule:nonzero}
+    .fil165 {fill:#15122A;fill-rule:nonzero}
+    .fil174 {fill:#171417;fill-rule:nonzero}
+    .fil158 {fill:#17182D;fill-rule:nonzero}
+    .fil71 {fill:#180A3A;fill-rule:nonzero}
+    .fil131 {fill:#18151A;fill-rule:nonzero}
+    .fil132 {fill:#19181A;fill-rule:nonzero}
+    .fil141 {fill:#19192D;fill-rule:nonzero}
+    .fil164 {fill:#1C1E2F;fill-rule:nonzero}
+    .fil117 {fill:#1E1917;fill-rule:nonzero}
+    .fil116 {fill:#1E1D1F;fill-rule:nonzero}
+    .fil125 {fill:#201A12;fill-rule:nonzero}
+    .fil150 {fill:#252326;fill-rule:nonzero}
+    .fil153 {fill:#252326;fill-rule:nonzero}
+    .fil149 {fill:#262229;fill-rule:nonzero}
+    .fil146 {fill:#262229;fill-rule:nonzero}
+    .fil182 {fill:#292429;fill-rule:nonzero}
+    .fil184 {fill:#292429;fill-rule:nonzero}
+    .fil120 {fill:#2A2420;fill-rule:nonzero}
+    .fil74 {fill:#30145A;fill-rule:nonzero}
+    .fil122 {fill:#301C1C;fill-rule:nonzero}
+    .fil154 {fill:#302E2E;fill-rule:nonzero}
+    .fil114 {fill:#312222;fill-rule:nonzero}
+    .fil119 {fill:#362E29;fill-rule:nonzero}
+    .fil112 {fill:#37262F;fill-rule:nonzero}
+    .fil173 {fill:#38281D;fill-rule:nonzero}
+    .fil181 {fill:#383438;fill-rule:nonzero}
+    .fil128 {fill:#383536;fill-rule:nonzero}
+    .fil161 {fill:#39363B;fill-rule:nonzero}
+    .fil85 {fill:#3A1252;fill-rule:nonzero}
+    .fil162 {fill:#3B3939;fill-rule:nonzero}
+    .fil90 {fill:#3E5C2C;fill-rule:nonzero}
+    .fil89 {fill:#3E5C2C;fill-rule:nonzero}
+    .fil176 {fill:#402E22;fill-rule:nonzero}
+    .fil70 {fill:#422084;fill-rule:nonzero}
+    .fil92 {fill:#435E1B;fill-rule:nonzero}
+    .fil124 {fill:#452B2A;fill-rule:nonzero}
+    .fil88 {fill:#456631;fill-rule:nonzero}
+    .fil151 {fill:#4A4647;fill-rule:nonzero}
+    .fil160 {fill:#4B454F;fill-rule:nonzero}
+    .fil58 {fill:#4B4C57;fill-rule:nonzero}
+    .fil169 {fill:#4D3727;fill-rule:nonzero}
+    .fil109 {fill:#4D493F;fill-rule:nonzero}
+    .fil147 {fill:#4D494A;fill-rule:nonzero}
+    .fil67 {fill:#4F0101;fill-rule:nonzero}
+    .fil68 {fill:#4F0101;fill-rule:nonzero}
+    .fil191 {fill:#4F612B;fill-rule:nonzero}
+    .fil28 {fill:#569CB3;fill-rule:nonzero}
+    .fil113 {fill:#573C3B;fill-rule:nonzero}
+    .fil180 {fill:#592F2F;fill-rule:nonzero}
+    .fil138 {fill:#5C3A45;fill-rule:nonzero}
+    .fil118 {fill:#5E3A2A;fill-rule:nonzero}
+    .fil66 {fill:#630000;fill-rule:nonzero}
+    .fil62 {fill:#630000;fill-rule:nonzero}
+    .fil197 {fill:#656713;fill-rule:nonzero}
+    .fil194 {fill:#656713;fill-rule:nonzero}
+    .fil10 {fill:#6638AF;fill-rule:nonzero}
+    .fil171 {fill:#664C39;fill-rule:nonzero}
+    .fil110 {fill:#665B04;fill-rule:nonzero}
+    .fil91 {fill:#666D2A;fill-rule:nonzero}
+    .fil121 {fill:#694B4A;fill-rule:nonzero}
+    .fil196 {fill:#696A12;fill-rule:nonzero}
+    .fil193 {fill:#696A12;fill-rule:nonzero}
+    .fil156 {fill:#707070;fill-rule:nonzero}
+    .fil139 {fill:#732134;fill-rule:nonzero}
+    .fil8 {fill:#756C4D;fill-rule:nonzero}
+    .fil9 {fill:#756C4D;fill-rule:nonzero}
+    .fil126 {fill:#7A7070;fill-rule:nonzero}
+    .fil188 {fill:#7C5C32;fill-rule:nonzero}
+    .fil111 {fill:#7D6F04;fill-rule:nonzero}
+    .fil130 {fill:#807C73;fill-rule:nonzero}
+    .fil129 {fill:#807C73;fill-rule:nonzero}
+    .fil69 {fill:#820505;fill-rule:nonzero}
+    .fil63 {fill:#820505;fill-rule:nonzero}
+    .fil115 {fill:#876353;fill-rule:nonzero}
+    .fil137 {fill:#8C857B;fill-rule:nonzero}
+    .fil134 {fill:#8F615C;fill-rule:nonzero}
+    .fil22 {fill:#93D9F0;fill-rule:nonzero}
+    .fil27 {fill:#93D9F0;fill-rule:nonzero}
+    .fil175 {fill:#946543;fill-rule:nonzero}
+    .fil185 {fill:#948F94;fill-rule:nonzero}
+    .fil183 {fill:#948F94;fill-rule:nonzero}
+    .fil24 {fill:#94BAD6;fill-rule:nonzero}
+    .fil23 {fill:#94BAD6;fill-rule:nonzero}
+    .fil152 {fill:#96918A;fill-rule:nonzero}
+    .fil148 {fill:#96918A;fill-rule:nonzero}
+    .fil140 {fill:#9A3F56;fill-rule:nonzero}
+    .fil77 {fill:#9B9CB0;fill-rule:nonzero}
+    .fil76 {fill:#9B9CB0;fill-rule:nonzero}
+    .fil7 {fill:#A5AB7E;fill-rule:nonzero}
+    .fil72 {fill:#A31022;fill-rule:nonzero}
+    .fil157 {fill:#A3A0A0;fill-rule:nonzero}
+    .fil168 {fill:#A6A6A6;fill-rule:nonzero}
+    .fil73 {fill:#AB1624;fill-rule:nonzero}
+    .fil133 {fill:#AB7A69;fill-rule:nonzero}
+    .fil108 {fill:#AB8750;fill-rule:nonzero}
+    .fil87 {fill:#ADA756;fill-rule:nonzero}
+    .fil80 {fill:#B2C7F0;fill-rule:nonzero}
+    .fil167 {fill:#B5A392;fill-rule:nonzero}
+    .fil98 {fill:#B88967;fill-rule:nonzero}
+    .fil53 {fill:#B89C0D;fill-rule:nonzero}
+    .fil135 {fill:#BB718C;fill-rule:nonzero}
+    .fil177 {fill:#BF6C4E;fill-rule:nonzero}
+    .fil54 {fill:#BFBFB5;fill-rule:nonzero}
+    .fil166 {fill:#C2B7B7;fill-rule:nonzero}
+    .fil192 {fill:#C2BB5D;fill-rule:nonzero}
+    .fil155 {fill:#C7BFBF;fill-rule:nonzero}
+    .fil172 {fill:#C9AA8F;fill-rule:nonzero}
+    .fil144 {fill:#D1CBBE;fill-rule:nonzero}
+    .fil52 {fill:#D2D6B4;fill-rule:nonzero}
+    .fil97 {fill:#D6AE1C;fill-rule:nonzero}
+    .fil65 {fill:#D82930;fill-rule:nonzero}
+    .fil123 {fill:#DBDBDB;fill-rule:nonzero}
+    .fil189 {fill:#DEAE00;fill-rule:nonzero}
+    .fil187 {fill:#DEAE00;fill-rule:nonzero}
+    .fil170 {fill:#E0B997;fill-rule:nonzero}
+    .fil179 {fill:#E0C1AA;fill-rule:nonzero}
+    .fil178 {fill:#E0C1AA;fill-rule:nonzero}
+    .fil163 {fill:#E8E1D3;fill-rule:nonzero}
+    .fil159 {fill:#E8E1D3;fill-rule:nonzero}
+    .fil29 {fill:#EDC7AB;fill-rule:nonzero}
+    .fil127 {fill:#EDE0CC;fill-rule:nonzero}
+    .fil25 {fill:#F0D9A8;fill-rule:nonzero}
+    .fil26 {fill:#F0D9A8;fill-rule:nonzero}
+    .fil78 {fill:#F2F1E6;fill-rule:nonzero}
+    .fil145 {fill:#FCF6ED;fill-rule:nonzero}
+    .fil75 {fill:#FF4A03;fill-rule:nonzero}
+    .fil21 {fill:#FFD68A;fill-rule:nonzero}
+    .fil51 {fill:#FFE587;fill-rule:nonzero}
+    .fil57 {fill:url(#id0)}
+    .fil79 {fill:url(#id1)}
+    .fil5 {fill:url(#id2)}
+    .fil199 {fill:url(#id3)}
+    .fil60 {fill:url(#id4);fill-rule:nonzero}
+    .fil55 {fill:url(#id5);fill-rule:nonzero}
+    .fil11 {fill:url(#id6);fill-rule:nonzero}
+    .fil195 {fill:url(#id7);fill-rule:nonzero}
+    .fil86 {fill:url(#id8);fill-rule:nonzero}
+    .fil107 {fill:url(#id9);fill-rule:nonzero}
+    .fil50 {fill:url(#id10);fill-rule:nonzero}
+    .fil95 {fill:url(#id11);fill-rule:nonzero}
+    .fil64 {fill:url(#id12);fill-rule:nonzero}
+    .fil186 {fill:url(#id13);fill-rule:nonzero}
+    .fil0 {fill:url(#id14);fill-rule:nonzero}
+    .fil56 {fill:url(#id15);fill-rule:nonzero}
+   
+  </svg:style>
+  <svg:linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="9390.52" y1="6267.05" x2="11956.45" y2="6267.05">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#001C54" id="stop1" />
+   <svg:stop offset="0.231373" style="stop-opacity:1; stop-color:#1A487A" id="stop2" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#3574A0" id="stop3" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="10711.11" y1="7244.99" x2="14643.49" y2="7244.99">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#203A4D" id="stop4" />
+   <svg:stop offset="0.588235" style="stop-opacity:1; stop-color:#2D4B60" id="stop5" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#3B5C73" id="stop6" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="5552.93" y1="7592.59" x2="4970.22" y2="1246.64">
+   <svg:stop offset="0" style="stop-opacity:0.0862745; stop-color:#FFE587" id="stop7" />
+   <svg:stop offset="1" style="stop-opacity:0.0666667; stop-color:#FFF2B8" id="stop8" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="10981.09" y1="10056.27" x2="10996.13" y2="7033.88">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#3B4D18" id="stop9" />
+   <svg:stop offset="0.368627" style="stop-opacity:1; stop-color:#63640C" id="stop10" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#8C7C00" id="stop11" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="702.98" y1="6429.09" x2="4635.87" y2="6429.09">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#F4F6F7" id="stop12" />
+   <svg:stop offset="0.368627" style="stop-opacity:1; stop-color:#E0F1FB" id="stop13" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#CCECFF" id="stop14" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="0.67" y1="7928.94" x2="18336.88" y2="7928.94">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#CFEBFC" id="stop15" />
+   <svg:stop offset="0.4" style="stop-opacity:1; stop-color:#689BBE" id="stop16" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#004B80" id="stop17" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="7099.83" y1="5821.21" x2="5155.1" y2="1492.75">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#5C5B4F" id="stop18" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#C2A146" id="stop19" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="10106.94" y1="10151.02" x2="10278.26" y2="7700.64">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#3B4D18" id="stop20" />
+   <svg:stop offset="0.521569" style="stop-opacity:1; stop-color:#9D8A0C" id="stop21" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#FFC800" id="stop22" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="7047.7" y1="8208.44" x2="6931.26" y2="5917.44">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#3E5C2C" id="stop23" />
+   <svg:stop offset="0.329412" style="stop-opacity:1; stop-color:#8B8F4E" id="stop24" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#D9C371" id="stop25" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="15360.57" y1="8747.24" x2="13994.69" y2="6104.99">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#948153" id="stop26" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#FFEC99" id="stop27" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="13138.78" y1="5954.52" x2="13039.21" y2="3830.88">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#414A1F" id="stop28" />
+   <svg:stop offset="0.368627" style="stop-opacity:1; stop-color:#968B31" id="stop29" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#EBCC44" id="stop30" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id11" gradientUnits="userSpaceOnUse" x1="13084.17" y1="8001.83" x2="12210.26" y2="5748.94">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#6A7838" id="stop31" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#FFD726" id="stop32" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="6479.04" y1="7695.39" x2="5889.8" y2="4883.95">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#4A484D" id="stop33" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#FFA733" id="stop34" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="11678.61" y1="9401.85" x2="11463.44" y2="6120.74">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#827253" id="stop35" />
+   <svg:stop offset="0.458824" style="stop-opacity:1; stop-color:#C09D2E" id="stop36" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#FFC908" id="stop37" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="9168.11" y1="0" x2="9168.78" y2="10308.96">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#0095FF" id="stop38" />
+   <svg:stop offset="0.360784" style="stop-opacity:0.690196; stop-color:#7FB6C6" id="stop39" />
+   <svg:stop offset="1" style="stop-opacity:0.376471; stop-color:#FFD78C" id="stop40" />
+  </svg:linearGradient>
+  <svg:linearGradient id="id15" gradientUnits="userSpaceOnUse" x1="11350.18" y1="5138.33" x2="11350.16" y2="5138.34">
+   <svg:stop offset="0" style="stop-opacity:1; stop-color:#103070" id="stop41" />
+   <svg:stop offset="0.478431" style="stop-opacity:1; stop-color:#254671" id="stop42" />
+   <svg:stop offset="1" style="stop-opacity:1; stop-color:#3B5C73" id="stop43" />
+  </svg:linearGradient>
+ </svg:defs>
+ <svg:g id="Layer_x0020_10" inkscape:label="Layer 10">
+  <svg:metadata id="CorelCorpID_1Corel-Layer" />
+  <svg:path class="fil7" d="M17034.17 4859.44c-483.24,0 -1354.81,-132.35 -1676.97,-192.76 -322.16,-60.4 -543.64,100.68 -704.72,100.68 -161.08,0 -664.45,-161.08 -926.21,-161.08 -261.76,0 -926.21,302.02 -1047.02,302.02 -120.81,0 -986.61,-161.08 -1268.5,-140.94 -281.89,20.14 -1449.72,100.68 -1812.14,161.08 -362.43,60.4 -1993.23,120.81 -1993.23,120.81 0,0 -1121.92,-42.15 -1444.08,-62.29 -322.16,-20.13 -1322.2,221.49 -1845.7,201.35 -523.51,-20.14 -1315.49,187.92 -1758.45,147.66 -442.96,-40.27 -1078.97,122.02 -1340.72,122.02 -261.75,0 -1216.42,-25.78 -1216.42,-25.78l0 4877.09 14190.57 0 4145.65 -11.81 0 -5373.08c-147.66,-11.27 -869.69,-64.97 -1302.06,-64.97z" id="path55" />
+ </svg:g>
+ </svg:svg>
